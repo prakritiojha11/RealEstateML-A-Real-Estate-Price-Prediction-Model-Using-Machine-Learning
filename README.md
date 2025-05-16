@@ -17,7 +17,20 @@ This project aims to predict housing prices using a linear regression model trai
 ---
 
 ## 📁 Project Structure
-<pre> 📁 RealEstateML/ ├── 📄 app.py → Main Flask application script ├── 📁 models/ │ └── 📄 model.pkl → Trained Linear Regression model ├── 📁 templates/ │ └── 📄 index.html → HTML template for the web form ├── 📁 static/ │ └── 📄 style.css → CSS styling for the web interface ├── 📄 requirements.txt → Project dependencies ├── 📄 README.md → Project description and instructions ├── 📁 screenshots/ → Screenshots for documentation │ ├── 📄 input_form.png │ └── 📄 prediction_result.png └── 📄 .gitignore → Git ignored files config </pre>
+RealEstateML/
+  app.py: "Main Flask application script"
+  models/
+    model.pkl: "Trained Linear Regression model"
+  templates/
+    index.html: "HTML template for the web form"
+  static/
+    style.css: "CSS styling for the web interface"
+  requirements.txt: "Project dependencies"
+  README.md: "Project description and instructions"
+  screenshots/:
+    input_form.png: "Screenshot of input form"
+    prediction_result.png: "Screenshot of prediction result"
+  .gitignore: "Git ignored files config"
 
 
 
